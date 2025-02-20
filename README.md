@@ -1,1 +1,1 @@
-# Perl-login-project
+# Basic Perl project to showcase login authentication 
